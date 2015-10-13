@@ -2,3 +2,4 @@
 /.ipynb_checkpoints/*
 *-checkpoint.ipynb
 *.pyc
+/*/mnist/*
