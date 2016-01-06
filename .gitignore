@@ -3,3 +3,4 @@
 *-checkpoint.ipynb
 *.pyc
 /*/mnist/*
+static files/*
