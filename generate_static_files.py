@@ -10,14 +10,17 @@ import os.path
 import nbconvert
 
 
-# 检查路径是否存在：
+# 检查路径是否存在，删除旧的文件：
 
 # In[2]:
 
 if not os.path.exists('static files'):
     os.mkdir('static files')
 
-
+for n in glob.glob('static files/*/*/*'):
+    os.remove(n)
+    
+    
 # 文件夹：
 
 # In[3]:
@@ -32,7 +35,8 @@ folders = ['01. python tools',
            '08. object-oriented programming',
            '09. theano',
            '10. something interesting',
-           '11. useful tools'
+           '11. useful tools',
+           '12. pandas'
           ]
 
 
