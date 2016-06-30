@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/welcome-page)](https://github.com/lijin-thu/notes-python)
+
 # 中文 Python 笔记
 
 > 版本：0.0.1
@@ -7,8 +9,6 @@
 > 邮件：lijinwithyou@gmail.com
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
-
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/welcome-page)](https://github.com/lijin-thu/notes-python)
 
 ## 简介
 
