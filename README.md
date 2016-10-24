@@ -1,14 +1,14 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
 
-> 版本：0.0.1
-
-> 作者：李金
-
-> 邮件：lijinwithyou@gmail.com
+> 版本：0.0.1<br>
+> 作者：李金<br>
+> 邮件：lijinwithyou@gmail.com<br>
+> 微信：lijinwithyou
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
+
+---
 
 ## 简介
 
@@ -38,7 +38,7 @@ $ ipython notebook
 - 更新环境
 ``` 
 conda update conda
-conda update anaconda 
+conda update anaconda
 ```
 
 ---
@@ -59,7 +59,7 @@ conda update anaconda
 
 可以在 Notebook 中打开 `generate static files.ipynb`，或者命令行中运行代码 `generate_static_files.py` 来生成静态的 HTML 文件。
 
-----
+---
 
 - [01. **Python 工具**](01. python tools)
 	 - [01.01 Python 简介](01. python tools/01.01 python overview.ipynb)
@@ -214,3 +214,4 @@ conda update anaconda
 	 - [12.01 十分钟上手 Pandas](12. pandas/12.01 ten minutes to pandas.ipynb)
 	 - [12.02 一维数据结构：Series](12. pandas/12.02 series in pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12. pandas/12.03 dataframe in pandas.ipynb)
+
