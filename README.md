@@ -6,7 +6,6 @@
 > 版本：0.0.1<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
-> 微信：lijinwithyou
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
