@@ -114,7 +114,7 @@ conda update anaconda
 	 - [03.20 结构化数组](03.\ numpy/03.20\ structured\ arrays.ipynb)
 	 - [03.21 记录数组](03.\ numpy/03.21\ record\ arrays.ipynb)
 	 - [03.22 内存映射](03.\ numpy/03.22\ memory\ maps.ipynb)
-	 - [03.23 从 Matlab 到\ Numpy](03.\ numpy/03.23\ from\ matlab\ to\ numpy.ipynb)
+	 - [03.23 从 Matlab 到 Numpy](03.\ numpy/03.23\ from\ matlab\ to\ numpy.ipynb)
 - [04. **Scipy**](04.\ scipy)
 	 - [04.01 SCIentific PYthon 简介](04.\ scipy/04.01\ scienticfic\ python\ overview.ipynb)
 	 - [04.02 插值](04.\ scipy/04.02\ interpolation\ with\ scipy.ipynb)
