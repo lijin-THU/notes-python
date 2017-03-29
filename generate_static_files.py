@@ -5,38 +5,39 @@
 
 # In[1]:
 
-import os, glob
+import os
 import os.path
 import nbconvert
+import glob
 
 
 # 检查路径是否存在，删除旧的文件：
 
 # In[2]:
 
-if not os.path.exists('static files'):
-    os.mkdir('static files')
-
-for n in glob.glob('static files/*/*/*'):
+if not os.path.exists('static-files'):
+    os.mkdir('static-files')
+    
+for n in glob.glob('static-files/*/*/*'):
     os.remove(n)
-    
-    
+
+
 # 文件夹：
 
 # In[3]:
 
-folders = ['01. python tools', 
-           '02. python essentials',
-           '03. numpy',
-           '04. scipy',
-           '05. advanced python',
-           '06. matplotlib',
-           '07. interfacing with other languages',
-           '08. object-oriented programming',
-           '09. theano',
-           '10. something interesting',
-           '11. useful tools',
-           '12. pandas'
+folders = ['01-python-tools', 
+           '02-python-essentials',
+           '03-numpy',
+           '04-scipy',
+           '05-advanced-python',
+           '06-matplotlib',
+           '07-interfacing-with-other-languages',
+           '08-object-oriented-programming',
+           '09-theano',
+           '10-something-interesting',
+           '11-useful-tools',
+           '12-pandas'
           ]
 
 
@@ -57,7 +58,7 @@ def convert_to_files(names, to_format):
     target_dir = os.path.join("static files", to_format)
     for folder in folders:
         if not os.path.exists(os.path.join(target_dir, folder)):
-            os.makedirs(os.path.join(target_dir, folder))                  
+            os.makedirs(os.path.join(target_dir, folder))
     converter = {
         "html": nbconvert.export_html,
         "python": nbconvert.export_python
@@ -83,6 +84,6 @@ convert_to_files(file_names, "html")
 
 with open('index.md') as f:
     text = f.read()
-    with open(os.path.join("static files/html", "README.md"), "w") as g:
+    with open(os.path.join("static files", "html", "README.md"), "w") as g:
         g.write(text.replace(".ipynb", ".html"))
 
