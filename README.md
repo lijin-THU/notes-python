@@ -218,4 +218,4 @@ conda update anaconda
 
 觉得有用打赏一下？
 
-<img src="payment.jpg", width=20%/>
+![](payment.jpg)
