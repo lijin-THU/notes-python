@@ -55,7 +55,7 @@ for folder in folders:
 # In[5]:
 
 def convert_to_files(names, to_format):
-    target_dir = os.path.join("static files", to_format)
+    target_dir = os.path.join("static-files", to_format)
     for folder in folders:
         if not os.path.exists(os.path.join(target_dir, folder)):
             os.makedirs(os.path.join(target_dir, folder))
@@ -84,6 +84,6 @@ convert_to_files(file_names, "html")
 
 with open('index.md') as f:
     text = f.read()
-    with open(os.path.join("static files", "html", "README.md"), "w") as g:
+    with open(os.path.join("static-files", "html", "README.md"), "w") as g:
         g.write(text.replace(".ipynb", ".html"))
 
