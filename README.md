@@ -1,5 +1,5 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
+[![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
 
@@ -215,3 +215,7 @@ conda update anaconda
 	 - [12.01 十分钟上手 Pandas](12-pandas/12.01-ten-minutes-to-pandas.ipynb)
 	 - [12.02 一维数据结构：Series](12-pandas/12.02-series-in-pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
+
+觉得有用打赏一下？
+
+<img src="payment.jpg", width=20%/>
