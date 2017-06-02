@@ -3,6 +3,6 @@
 *-checkpoint.ipynb
 *.pyc
 /*/mnist/*
-static files/*
+static-files/*
 /*/novels/*
 /*/*.model
