@@ -219,3 +219,8 @@ conda update anaconda
 觉得有用打赏一下？
 
 ![](payment.jpg)
+
+打两个广告：
+
+- 基于本笔记整理补充而成的书籍即将出版，敬请期待！
+- 基于本笔记第一二节录制的视频：[Python小白入门课视频教学](http://www.softlinkonline.cn/zhibo.html?id=43)
