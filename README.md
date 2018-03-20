@@ -11,7 +11,8 @@
 
 基于本笔记的实体书：《自学Python——编程基础、科学计算及数据分析》已经出版，京东、淘宝、当当、亚马逊均有销售。
 
-<img src="book.jpg" width="40%"/>
+
+![](book.jpg)
 
 ---
 
@@ -222,11 +223,10 @@ conda update anaconda
 
 觉得有用打赏一下？
 
-<table><tr>
-<td><img src="payment-small.jpg" width="75%" border=0></td>
-<td><img src="payment-big.jpg" width="75%" border=0></td>
-<td><img src="payment-any.jpg" width="75%" border=0></td>
-</tr></table>
+![](payment-small.jpg)
+![](payment-big.jpg)
+![](payment-any.jpg)
+
 
 打个广告：
 
