@@ -6,12 +6,12 @@
 > 版本：0.0.1<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
->
-> **版权所有 © 李金，保留所有权利**<br>
-> **Copyright © Li Jin. All Rights Reserved**
-
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
+
+基于本笔记的实体书：《自学Python——编程基础、科学计算及数据分析》已经出版，京东、淘宝、当当、亚马逊均有销售。
+
+<img src="book.jpg" width="40%"/>
 
 ---
 
@@ -222,9 +222,12 @@ conda update anaconda
 
 觉得有用打赏一下？
 
-![](payment.jpg)
+<table><tr>
+<td><img src="payment-small.jpg" width="75%" border=0></td>
+<td><img src="payment-big.jpg" width="75%" border=0></td>
+<td><img src="payment-any.jpg" width="75%" border=0></td>
+</tr></table>
 
-打两个广告：
+打个广告：
 
-- 基于本笔记整理补充而成的书籍即将出版，敬请期待！
 - 基于本笔记第一二节录制的视频：[Python小白入门课视频教学](http://www.softlinkonline.cn/zhibo.html?id=43)

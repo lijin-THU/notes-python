@@ -6,3 +6,4 @@
 static-files/*
 /*/novels/*
 /*/*.model
+.DS_Store
