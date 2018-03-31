@@ -6,7 +6,8 @@
 > 版本：0.0.1<br>
 > 作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
-> <span style="color:red">由于涉及著作权的问题，对基于本笔记所做的修订、改编，目前不能做任何正式授权。笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。</span>
+
+<span style="color: red">由于涉及著作权的问题，对基于本笔记所做的修订、改编，目前不能做任何正式授权。笔记内容仅供学习参考，未经允许，请勿用于任何商业用途。</span>
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
