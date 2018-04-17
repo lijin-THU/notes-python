@@ -228,9 +228,7 @@ conda update anaconda
 
 觉得有用打赏一下？
 
-![](payment-small.jpg)
-![](payment-big.jpg)
-![](payment-any.jpg)
+![](payment.jpeg)
 
 
 打个广告：
