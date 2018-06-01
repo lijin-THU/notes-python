@@ -1,4 +1,3 @@
-
 [![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
@@ -13,15 +12,12 @@
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
-基于本笔记的实体书：《自学Python——编程基础、科学计算及数据分析》已经出版，京东自营链接：
+基于本笔记的实体书：《自学Python——编程基础、科学计算及数据分析》已经出版。
 
+京东自营链接：
 https://item.jd.com/12328920.html
 
-天猫：
-
-https://detail.tmall.com/item.htm?id=566648749647
-
-![](book.jpg)
+天猫、亚马逊、当当均有销售。
 
 ---
 
@@ -35,14 +31,14 @@ https://detail.tmall.com/item.htm?id=566648749647
 
 推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
 
-笔记内容使用 `ipython notebook` 来展示。
+笔记内容使用 `jupyter notebook` 来展示。
 
 安装好 `Python` 和相应的包之后，可以在命令行下输入：
 
 ```
-$ ipython notebook
+$ jupyter notebook
 ```
-来进入 `ipython notebook`。
+来进入 `jupyter notebook`。
 
 ----
 
@@ -229,12 +225,3 @@ conda update anaconda
 	 - [12.01 十分钟上手 Pandas](12-pandas/12.01-ten-minutes-to-pandas.ipynb)
 	 - [12.02 一维数据结构：Series](12-pandas/12.02-series-in-pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
-
-觉得有用打赏一下？
-
-![](payment.jpeg)
-
-
-打个广告：
-
-- 基于本笔记第一二节录制的视频：[Python小白入门课视频教学](http://www.softlinkonline.cn/zhibo.html?id=43)
